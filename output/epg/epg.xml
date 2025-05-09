@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250509194128 +0800">
+<tv date="20250509221834 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -5453,6 +5453,12 @@
 	</channel>
 	<programme channel="黑莓动画" start="20250510005100 +0800" stop="20250510022400 +0800">
 		<title lang="zh">蜡笔小新：梦境世界大突击</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250510022400 +0800" stop="20250510032900 +0800">
+		<title lang="zh">角落小伙伴电影版 蓝色月夜的魔法之子（普通话版）</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250510032900 +0800" stop="20250510045100 +0800">
+		<title lang="zh">邋遢大王奇遇记电影版</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
