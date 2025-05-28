@@ -1,17 +1,36 @@
 🕘️更新时间,#genre#
-2025-05-28 18:22:57,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
+2025-05-28 23:13:44,http://192.168.100.1:7088/rtp/239.254.96.96:8550
 
 📺央视频道,#genre#
+CCTV-1,http://192.168.100.1:7088/rtp/239.254.96.96:8550
 CCTV-1,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
-CCTV-2,http://58.19.38.162:9901/tsfile/live/0002_1.m3u8
+CCTV-2,http://192.168.100.1:7088/rtp/239.69.1.102:10250
+CCTV-2,http://121.17.146.34:50003/hls/2/index.m3u8
 CCTV-2,http://qjrhc.jydjd.top:2911/udp/224.1.100.94:11111
+CCTV-3,http://192.168.100.1:7088/rtp/239.69.1.122:10370
+CCTV-4,http://192.168.100.1:7088/rtp/239.69.1.138:10466
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+CCTV-5,http://192.168.100.1:7088/rtp/239.69.1.123:10376
 CCTV-5,http://omnix.cn:4000/udp/225.1.8.89:8000
 CCTV-5,http://qjrhc.jydjd.top:2911/udp/224.1.100.82:11111
+CCTV-5+,http://192.168.100.1:7088/rtp/239.254.96.234:9484
+CCTV-6,http://192.168.100.1:7088/rtp/239.69.1.124:10382
 CCTV-6,http://119.32.12.17:2901/udp/224.1.100.84:11111
+CCTV-7,http://192.168.100.1:7088/rtp/239.69.1.103:10256
 CCTV-7,http://omnix.cn:4000/udp/225.1.8.7:8104
+CCTV-8,http://192.168.100.1:7088/rtp/239.69.1.125:10388
+CCTV-9,http://192.168.100.1:7088/rtp/239.69.1.104:10262
 CCTV-9,http://119.32.12.17:2901/udp/224.1.100.29:11111
+CCTV-10,http://192.168.100.1:7088/rtp/239.69.1.105:10268
+CCTV-11,http://192.168.100.1:7088/rtp/239.69.1.154:10560
+CCTV-12,http://192.168.100.1:7088/rtp/239.69.1.106:10274
+CCTV-12,http://223.241.247.214:9901/tsfile/live/0012_1.m3u8
+CCTV-13,http://192.168.100.1:7088/rtp/239.254.96.161:9040
 CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
+CCTV-14,http://192.168.100.1:7088/rtp/239.69.1.107:10280
+CCTV-15,http://192.168.100.1:7088/rtp/239.69.1.155:10566
+CCTV-16,http://192.168.100.1:7088/rtp/239.69.1.247:11124
+CCTV-17,http://192.168.100.1:7088/rtp/239.69.1.152:10548
 
 💰央视付费频道,#genre#
 风云音乐,http://192.168.100.1:7088/rtp/239.69.1.90:10180
@@ -35,16 +54,17 @@ CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 📡卫视频道,#genre#
 广东卫视,http://192.168.100.1:7088/rtp/239.254.96.140:8914
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
+广东卫视,http://101.66.198.77:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
 浙江卫视,http://192.168.100.1:7088/rtp/239.254.96.143:8932
-浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
 湖南卫视,http://192.168.100.1:7088/rtp/239.254.96.139:8908
 湖南卫视,http://119.32.12.17:2901/udp/224.1.100.98:11111
 北京卫视,http://192.168.100.1:7088/rtp/239.254.96.141:8920
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,http://192.168.100.1:7088/rtp/239.254.96.115:8664
-湖北卫视,http://www.745612.xyz:7788/rtp/235.254.198.72:1564
 湖北卫视,http://119.32.12.17:2901/udp/224.1.100.68:11111
+湖北卫视,http://www.745612.xyz:7788/rtp/235.254.198.72:1564
 黑龙江卫视,http://192.168.100.1:7088/rtp/239.254.96.138:8902
 安徽卫视,http://192.168.100.1:7088/rtp/239.69.1.70:10060
 重庆卫视,http://192.168.100.1:7088/rtp/239.69.1.149:10530
@@ -103,7 +123,6 @@ CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 武汉文体,http://192.168.100.1:7088/rtp/239.69.1.147:10518
 武汉外语,http://192.168.100.1:7088/rtp/239.69.1.36:9856
 武汉生活,http://192.168.100.1:7088/rtp/239.69.1.251:11148
-潜江综合,http://hbqjdb.chinashadt.com:2035/live/3.stream/playlist.m3u8
 
 🈳无结果频道,#genre#
 文化精品,url
@@ -113,3 +132,4 @@ CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 武汉五台文体,url
 武汉六台外语,url
 郧阳新闻综合,url
+潜江综合,url
