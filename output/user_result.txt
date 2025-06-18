@@ -1,12 +1,11 @@
 🕘️更新时间,#genre#
-2025-06-18 06:21:11,http://192.168.100.1:7088/rtp/239.254.96.96:8550
+2025-06-18 18:21:42,http://192.168.100.1:7088/rtp/239.254.96.96:8550
 
 📺央视频道,#genre#
 CCTV-1,http://192.168.100.1:7088/rtp/239.254.96.96:8550
 CCTV-2,http://192.168.100.1:7088/rtp/239.69.1.102:10250
 CCTV-2,http://qjrhc.jydjd.top:2911/udp/224.1.100.94:11111
 CCTV-3,http://192.168.100.1:7088/rtp/239.69.1.122:10370
-CCTV-3,http://121.17.146.34:50003/hls/3/index.m3u8
 CCTV-4,http://192.168.100.1:7088/rtp/239.69.1.138:10466
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV-5,http://192.168.100.1:7088/rtp/239.69.1.123:10376
@@ -51,7 +50,8 @@ CCTV-17,http://192.168.100.1:7088/rtp/239.69.1.152:10548
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 浙江卫视,http://192.168.100.1:7088/rtp/239.254.96.143:8932
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
-浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
+浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8
+浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8?a=1000&amp;d=d396e340de48108a9576134d5b090354&amp;k=60ede3db45d8640ab1db2b9f0dfa7549&amp;t=1671539989
 湖南卫视,http://192.168.100.1:7088/rtp/239.254.96.139:8908
 湖南卫视,http://119.32.12.17:2901/udp/224.1.100.98:11111
 北京卫视,http://192.168.100.1:7088/rtp/239.254.96.141:8920
@@ -75,7 +75,6 @@ CCTV-17,http://192.168.100.1:7088/rtp/239.69.1.152:10548
 吉林卫视,http://192.168.100.1:7088/rtp/239.69.1.212:10914
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 江苏卫视,http://192.168.100.1:7088/rtp/239.254.96.144:8938
-江苏卫视,http://1b6467f415.iok.la:9931/tsfile/live/1060_1.m3u8
 江西卫视,http://192.168.100.1:7088/rtp/239.69.1.126:10394
 辽宁卫视,http://192.168.100.1:7088/rtp/239.69.1.71:10066
 内蒙古卫视,http://192.168.100.1:7088/rtp/239.254.96.41:8220
