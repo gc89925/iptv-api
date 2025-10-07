@@ -1,16 +1,12 @@
 🕘️更新时间,#genre#
-2025-10-07 06:19:15,http://192.168.100.1:7088/rtp/239.254.96.96:8550
+2025-10-07 18:21:41,http://192.168.100.1:7088/rtp/239.254.96.96:8550
 
 📺央视频道,#genre#
 CCTV-1,http://192.168.100.1:7088/rtp/239.254.96.96:8550
-CCTV-1,http://101.74.28.84:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-2,http://192.168.100.1:7088/rtp/239.69.1.102:10250
-CCTV-2,http://1.197.84.170:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-3,http://192.168.100.1:7088/rtp/239.69.1.122:10370
 CCTV-4,http://192.168.100.1:7088/rtp/239.69.1.138:10466
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-CCTV-4,http://61.156.228.12:8154/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-4,http://1.195.131.143:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5,http://192.168.100.1:7088/rtp/239.69.1.123:10376
 CCTV-5+,http://192.168.100.1:7088/rtp/239.254.96.234:9484
 CCTV-6,http://192.168.100.1:7088/rtp/239.69.1.124:10382
@@ -79,7 +75,6 @@ CCTV-17,http://192.168.100.1:7088/rtp/239.69.1.152:10548
 山东卫视,http://192.168.100.1:7088/rtp/239.69.1.69:10054
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 山西卫视,http://192.168.100.1:7088/rtp/239.254.96.93:8532
-山西卫视,http://sh.lnott.top:880/dx39.m3u8
 陕西卫视,http://192.168.100.1:7088/rtp/239.254.96.186:9196
 四川卫视,http://192.168.100.1:7088/rtp/239.69.1.169:10650
 深圳卫视,http://192.168.100.1:7088/rtp/239.254.96.137:8896
