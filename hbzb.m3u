@@ -38,9 +38,9 @@ http://192.168.100.1:5140/rtp/239.69.1.155:10566?fcc=121.60.255.120:15970
 http://192.168.100.1:5140/rtp/239.69.1.247:11124?fcc=121.60.255.120:15970
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV17HD
 http://192.168.100.1:5140/rtp/239.69.1.152:10548?fcc=121.60.255.120:15970
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV4K
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K",CCTV4K
 http://192.168.100.1:5140/rtp/239.69.1.111:10304?fcc=121.60.255.120:15970
-#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV164K
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="4K",CCTV164K
 http://192.168.100.1:5140/rtp/239.69.1.249:11136?fcc=121.60.255.120:15970
 #EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="湖北",湖北卫视HD
 http://192.168.100.1:5140/rtp/239.254.96.115:8664?fcc=121.60.255.120:15970
@@ -322,3 +322,23 @@ http://192.168.100.1:5140/rtp/239.69.1.3:9658?fcc=121.60.255.120:15970
 http://192.168.100.1:5140/rtp/239.69.1.4:9664?fcc=121.60.255.120:15970
 #EXTINF:-1 tvg-id="1792" tvg-name="武汉外语" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WHTV6.png" group-title="备用",武汉外语
 http://192.168.100.1:5140/rtp/239.69.1.5:9670?fcc=121.60.255.120:15970
+#EXTINF:-1 group-title="4K" tvg-name="湖南卫视4K",湖南卫视4K
+http://192.168.100.1:5140/rtp/239.69.2.34:11358?fcc=121.60.255.120:15970
+#EXTINF:-1 group-title="4K" tvg-name="浙江卫视4K",浙江卫视4K
+http://192.168.100.1:5140/rtp/239.69.2.35:11364?fcc=121.60.255.120:15970
+#EXTINF:-1 group-title="4K" tvg-name="江苏卫视4K",江苏卫视4K
+http://192.168.100.1:5140/rtp/239.69.2.36:11370?fcc=121.60.255.120:15970
+#EXTINF:-1 group-title="4K" tvg-name="东方卫视4K",东方卫视4K
+http://192.168.100.1:5140/rtp/239.69.2.37:11376?fcc=121.60.255.120:15970
+#EXTINF:-1 group-title="4K" tvg-name="山东卫视4K",山东卫视4K
+http://192.168.100.1:5140/rtp/239.69.2.38:11382?fcc=121.60.255.120:15970
+#EXTINF:-1 group-title="4K" tvg-name="四川卫视4K",四川卫视4K
+http://192.168.100.1:5140/rtp/239.69.2.39:11388?fcc=121.60.255.120:15970
+#EXTINF:-1 group-title="4K" tvg-name="北京卫视4K",北京卫视4K
+http://192.168.100.1:5140/rtp/239.69.2.22:11286?fcc=121.60.255.120:15970
+#EXTINF:-1 group-title="4K" tvg-name="广东卫视4K",广东卫视4K
+http://192.168.100.1:5140/rtp/239.69.2.27:11316?fcc=121.60.255.120:15970
+#EXTINF:-1 group-title="4K" tvg-name="深圳卫视4K",深圳卫视4K
+http://192.168.100.1:5140/rtp/239.69.2.28:11322?fcc=121.60.255.120:15970
+#EXTINF:-1 group-title="4K" tvg-name="欢笑剧场4K",欢笑剧场4K
+http://192.168.100.1:5140/rtp/239.69.2.5:11184?fcc=121.60.255.120:15970
