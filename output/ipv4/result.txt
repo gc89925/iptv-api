@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-19 06:19:57,http://192.168.100.1:7088/rtp/239.254.96.96:8550
+2026-01-19 18:28:38,http://192.168.100.1:7088/rtp/239.254.96.96:8550
 
 📺央视频道,#genre#
 CCTV-1,http://192.168.100.1:7088/rtp/239.254.96.96:8550
@@ -11,7 +11,6 @@ CCTV-3,http://23.237.228.134/live5/CCTV3.m3u8
 CCTV-4,http://192.168.100.1:7088/rtp/239.69.1.138:10466
 CCTV-5,http://192.168.100.1:7088/rtp/239.69.1.123:10376
 CCTV-5,http://23.237.228.134/live5/CCTV5.m3u8
-CCTV-5,http://23.237.228.134/live5/CCTV5p.m3u8
 CCTV-5+,http://192.168.100.1:7088/rtp/239.254.96.234:9484
 CCTV-6,http://192.168.100.1:7088/rtp/239.69.1.124:10382
 CCTV-7,http://192.168.100.1:7088/rtp/239.69.1.103:10256
@@ -76,16 +75,16 @@ CCTV-17,http://23.237.228.134/live3/CCTV17.m3u8
 重庆卫视,http://192.168.100.1:7088/rtp/239.69.1.149:10530
 重庆卫视,http://23.237.228.134/live6/chongqing.m3u8
 东方卫视,http://192.168.100.1:7088/rtp/239.254.96.142:8926
+东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
 东方卫视,http://69.30.246.194/live/dfws.m3u8
 东方卫视,http://23.237.228.134/live6/dongnan.m3u8
-东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
 东南卫视,http://192.168.100.1:7088/rtp/239.69.1.108:10286
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 东南卫视,http://23.237.228.134/live8/gansu.m3u8
 甘肃卫视,http://192.168.100.1:7088/rtp/239.254.96.187:9202
 广西卫视,http://192.168.100.1:7088/rtp/239.69.1.191:10788
-广西卫视,http://23.237.228.134/live6/guizhou.m3u8
 广西卫视,http://23.237.228.134/live6/guangxi.m3u8
+广西卫视,http://23.237.228.134/live6/guizhou.m3u8
 贵州卫视,http://192.168.100.1:7088/rtp/239.69.1.150:10536
 贵州卫视,http://23.237.228.134/live6/hainan.m3u8
 海南卫视,http://192.168.100.1:7088/rtp/239.69.1.151:10542
@@ -109,8 +108,8 @@ CCTV-17,http://23.237.228.134/live3/CCTV17.m3u8
 山东卫视,http://192.168.100.1:7088/rtp/239.69.1.69:10054
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 山西卫视,http://192.168.100.1:7088/rtp/239.254.96.93:8532
-山西卫视,http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub
 山西卫视,http://23.237.228.134/live8/shanxi.m3u8
+山西卫视,http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub
 陕西卫视,http://192.168.100.1:7088/rtp/239.254.96.186:9196
 陕西卫视,http://38.75.136.137:98/gslb/dsdqpub/snwshd.m3u8?auth=testpub
 陕西卫视,http://23.237.228.134/live6/sichuan.m3u8
