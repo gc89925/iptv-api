@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-21 06:22:50,http://192.168.100.1:7088/rtp/239.254.96.96:8550
+2026-01-21 18:28:51,http://192.168.100.1:7088/rtp/239.254.96.96:8550
 
 📺央视频道,#genre#
 CCTV-1,http://192.168.100.1:7088/rtp/239.254.96.96:8550
@@ -26,8 +26,8 @@ CCTV-12,http://192.168.100.1:7088/rtp/239.69.1.106:10274
 CCTV-12,http://23.237.228.134/live3/CCTV12.m3u8
 CCTV-13,http://192.168.100.1:7088/rtp/239.254.96.161:9040
 CCTV-14,http://192.168.100.1:7088/rtp/239.69.1.107:10280
-CCTV-14,http://69.30.246.194/live/cctv14.m3u8
 CCTV-14,http://23.237.228.134/live3/CCTV14.m3u8
+CCTV-14,http://69.30.246.194/live/cctv14.m3u8
 CCTV-15,http://192.168.100.1:7088/rtp/239.69.1.155:10566
 CCTV-15,http://23.237.228.134/live3/CCTV15.m3u8
 CCTV-16,http://192.168.100.1:7088/rtp/239.69.1.247:11124
@@ -39,18 +39,8 @@ CCTV-17,http://23.237.228.134/live3/CCTV17.m3u8
 💰央视付费频道,#genre#
 风云音乐,http://192.168.100.1:7088/rtp/239.69.1.90:10180
 风云音乐,http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
-第一剧场,http://43.251.226.89:8080/play/1155.m3u8
-风云剧场,http://43.251.226.89:8080/play/1157.m3u8
-风云剧场,http://120.238.94.10:9901/tsfile/live/1090_1.m3u8
-风云剧场,http://hmfs.f3322.net:3388/hls/20/index.m3u8
-风云剧场,http://dassby.qqff.top:99/live/风云剧场/index.m3u8
-风云剧场,rtsp://115.153.245.70/PLTV/88888888/224/3221226963/86128874.smil
-风云剧场,rtsp://115.153.247.80/PLTV/88888888/224/3221226963/86128874.smil
-风云剧场,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226963/86128874.smil
-风云剧场,rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000409?AuthInfo=xxx&userid=gf001&userid=gf001
 怀旧剧场,http://192.168.100.1:7088/rtp/239.69.1.89:10174
 怀旧剧场,http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
-怀旧剧场,http://43.251.226.89:8080/play/1156.m3u8
 女性时尚,http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
 高尔夫网球,http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
 风云足球,http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
@@ -60,15 +50,15 @@ CCTV-17,http://23.237.228.134/live3/CCTV17.m3u8
 
 📡卫视频道,#genre#
 广东卫视,http://192.168.100.1:7088/rtp/239.254.96.140:8914
-广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 广东卫视,http://23.237.228.134/live6/guangdong.m3u8
+广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 浙江卫视,http://192.168.100.1:7088/rtp/239.254.96.143:8932
-浙江卫视,http://23.237.228.134/live6/zhejiang.m3u8
 浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
+浙江卫视,http://23.237.228.134/live6/zhejiang.m3u8
 湖南卫视,http://192.168.100.1:7088/rtp/239.254.96.139:8908
-湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
-湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 湖南卫视,http://23.237.228.134/live6/hunan.m3u8
+湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://192.168.100.1:7088/rtp/239.254.96.141:8920
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,http://192.168.100.1:7088/rtp/239.254.96.115:8664
@@ -79,12 +69,11 @@ CCTV-17,http://23.237.228.134/live3/CCTV17.m3u8
 重庆卫视,http://192.168.100.1:7088/rtp/239.69.1.149:10530
 重庆卫视,http://23.237.228.134/live6/chongqing.m3u8
 东方卫视,http://192.168.100.1:7088/rtp/239.254.96.142:8926
-东方卫视,http://69.30.246.194/live/dfws.m3u8
 东方卫视,http://23.237.228.134/live6/dongnan.m3u8
-东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
+东方卫视,http://69.30.246.194/live/dfws.m3u8
 东南卫视,http://192.168.100.1:7088/rtp/239.69.1.108:10286
-东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 东南卫视,http://23.237.228.134/live8/gansu.m3u8
+东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 甘肃卫视,http://192.168.100.1:7088/rtp/239.254.96.187:9202
 广西卫视,http://192.168.100.1:7088/rtp/239.69.1.191:10788
 广西卫视,http://23.237.228.134/live6/guizhou.m3u8
@@ -97,8 +86,8 @@ CCTV-17,http://23.237.228.134/live3/CCTV17.m3u8
 河南卫视,http://192.168.100.1:7088/rtp/239.69.1.168:10644
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 吉林卫视,http://192.168.100.1:7088/rtp/239.69.1.212:10914
-吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 吉林卫视,http://23.237.228.134/live8/jilin.m3u8
+吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 江苏卫视,http://192.168.100.1:7088/rtp/239.254.96.144:8938
 江西卫视,http://192.168.100.1:7088/rtp/239.69.1.126:10394
 江西卫视,http://23.237.228.134/live8/jiangxi.m3u8
@@ -112,8 +101,8 @@ CCTV-17,http://23.237.228.134/live3/CCTV17.m3u8
 山东卫视,http://192.168.100.1:7088/rtp/239.69.1.69:10054
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 山西卫视,http://192.168.100.1:7088/rtp/239.254.96.93:8532
-山西卫视,http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub
 山西卫视,http://23.237.228.134/live8/shanxi.m3u8
+山西卫视,http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub
 陕西卫视,http://192.168.100.1:7088/rtp/239.254.96.186:9196
 陕西卫视,http://38.75.136.137:98/gslb/dsdqpub/snwshd.m3u8?auth=testpub
 陕西卫视,http://23.237.228.134/live6/sichuan.m3u8
@@ -151,6 +140,8 @@ CCTV-17,http://23.237.228.134/live3/CCTV17.m3u8
 
 🈳无结果频道,#genre#
 文化精品,url
+第一剧场,url
+风云剧场,url
 湖北公共新闻,url
 湖北经济,url
 武汉三台科技生活,url
