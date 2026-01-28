@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-28 18:28:40,http://192.168.100.1:7088/rtp/239.254.96.96:8550
+2026-01-29 06:26:26,http://192.168.100.1:7088/rtp/239.254.96.96:8550
 
 📺央视频道,#genre#
 CCTV-1,http://192.168.100.1:7088/rtp/239.254.96.96:8550
@@ -11,8 +11,6 @@ CCTV-3,http://23.237.228.134/live5/CCTV3.m3u8
 CCTV-4,http://192.168.100.1:7088/rtp/239.69.1.138:10466
 CCTV-5,http://192.168.100.1:7088/rtp/239.69.1.123:10376
 CCTV-5,http://23.237.228.134/live5/CCTV5.m3u8
-CCTV-5,http://23.237.228.134/live5/CCTV5p.m3u8
-CCTV-5,http://117.36.76.86:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5+,http://192.168.100.1:7088/rtp/239.254.96.234:9484
 CCTV-6,http://192.168.100.1:7088/rtp/239.69.1.124:10382
 CCTV-7,http://192.168.100.1:7088/rtp/239.69.1.103:10256
@@ -29,8 +27,6 @@ CCTV-13,http://192.168.100.1:7088/rtp/239.254.96.161:9040
 CCTV-14,http://192.168.100.1:7088/rtp/239.69.1.107:10280
 CCTV-14,http://23.237.228.134/live3/CCTV14.m3u8
 CCTV-15,http://192.168.100.1:7088/rtp/239.69.1.155:10566
-CCTV-15,http://153.0.171.163:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-15,http://23.237.228.134/live3/CCTV15.m3u8
 CCTV-16,http://192.168.100.1:7088/rtp/239.69.1.247:11124
 CCTV-17,http://192.168.100.1:7088/rtp/239.69.1.152:10548
 CCTV-17,http://23.237.228.134/live3/CCTV17.m3u8
@@ -54,15 +50,13 @@ CCTV-17,http://23.237.228.134/live3/CCTV17.m3u8
 广东卫视,http://192.168.100.1:7088/rtp/239.254.96.140:8914
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 广东卫视,http://23.237.228.134/live6/guangdong.m3u8
-广东卫视,http://153.0.171.163:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-广东卫视,http://222.214.208.34:59901/tsfile/live/0125_1.m3u8
 浙江卫视,http://192.168.100.1:7088/rtp/239.254.96.143:8932
 浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 浙江卫视,http://23.237.228.134/live6/zhejiang.m3u8
 湖南卫视,http://192.168.100.1:7088/rtp/239.254.96.139:8908
+湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://23.237.228.134/live6/hunan.m3u8
-湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 北京卫视,http://192.168.100.1:7088/rtp/239.254.96.141:8920
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 北京卫视,http://23.237.228.134/live3/beijing.m3u8
@@ -84,7 +78,6 @@ CCTV-17,http://23.237.228.134/live3/CCTV17.m3u8
 广西卫视,http://23.237.228.134/live6/guizhou.m3u8
 贵州卫视,http://192.168.100.1:7088/rtp/239.69.1.150:10536
 贵州卫视,http://23.237.228.134/live6/hainan.m3u8
-贵州卫视,http://222.214.208.34:59901/tsfile/live/0120_1.m3u8
 海南卫视,http://192.168.100.1:7088/rtp/239.69.1.151:10542
 河北卫视,http://192.168.100.1:7088/rtp/239.69.1.157:10578
 河北卫视,http://23.237.228.134/live8/hebei.m3u8
@@ -94,7 +87,6 @@ CCTV-17,http://23.237.228.134/live3/CCTV17.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 吉林卫视,http://23.237.228.134/live8/jilin.m3u8
 江苏卫视,http://192.168.100.1:7088/rtp/239.254.96.144:8938
-江苏卫视,http://222.214.208.34:59901/tsfile/live/0127_1.m3u8
 江西卫视,http://192.168.100.1:7088/rtp/239.69.1.126:10394
 江西卫视,http://23.237.228.134/live8/jiangxi.m3u8
 辽宁卫视,http://192.168.100.1:7088/rtp/239.69.1.71:10066
@@ -115,13 +107,10 @@ CCTV-17,http://23.237.228.134/live3/CCTV17.m3u8
 四川卫视,http://192.168.100.1:7088/rtp/239.69.1.169:10650
 深圳卫视,http://192.168.100.1:7088/rtp/239.254.96.137:8896
 深圳卫视,http://23.237.228.134/live6/shenzhen.m3u8
-深圳卫视,http://61.184.46.85:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 三沙卫视,http://192.168.100.1:7088/rtp/239.69.1.171:10662
 三沙卫视,http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
-三沙卫视,https://srs.ssws.tv/video/sstv-10/index.m3u8
 天津卫视,http://192.168.100.1:7088/rtp/239.69.1.68:10048
 天津卫视,http://23.237.228.134/live8/tianjing.m3u8
-天津卫视,http://111.221.137.155:44330/tsfile/live/0132_2.m3u8?key=txiptv
 西藏卫视,http://192.168.100.1:7088/rtp/239.254.96.35:8184
 新疆卫视,http://192.168.100.1:7088/rtp/239.254.96.47:8256
 新疆卫视,http://38.75.136.137:98/gslb/dsdqpub/xjws.m3u8?auth=testpub
