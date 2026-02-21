@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-21 06:25:33,http://192.168.100.1:7088/rtp/239.254.96.96:8550
+2026-02-21 18:25:41,http://192.168.100.1:7088/rtp/239.254.96.96:8550
 
 📺央视频道,#genre#
 CCTV-1,http://192.168.100.1:7088/rtp/239.254.96.96:8550
@@ -36,14 +36,14 @@ CCTV-17,http://192.168.100.1:7088/rtp/239.69.1.152:10548
 
 📡卫视频道,#genre#
 广东卫视,http://192.168.100.1:7088/rtp/239.254.96.140:8914
-广东卫视,http://23.237.228.134/live6/guangdong.m3u8
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
+广东卫视,http://23.237.228.134/live6/guangdong.m3u8
 浙江卫视,http://192.168.100.1:7088/rtp/239.254.96.143:8932
 浙江卫视,http://23.237.228.134/live6/zhejiang.m3u8
 湖南卫视,http://192.168.100.1:7088/rtp/239.254.96.139:8908
+湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://23.237.228.134/live6/hunan.m3u8
 湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://192.168.100.1:7088/rtp/239.254.96.141:8920
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,http://192.168.100.1:7088/rtp/239.254.96.115:8664
@@ -58,8 +58,8 @@ CCTV-17,http://192.168.100.1:7088/rtp/239.69.1.152:10548
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 甘肃卫视,http://192.168.100.1:7088/rtp/239.254.96.187:9202
 广西卫视,http://192.168.100.1:7088/rtp/239.69.1.191:10788
-广西卫视,http://23.237.228.134/live6/guizhou.m3u8
 广西卫视,http://23.237.228.134/live6/guangxi.m3u8
+广西卫视,http://23.237.228.134/live6/guizhou.m3u8
 贵州卫视,http://192.168.100.1:7088/rtp/239.69.1.150:10536
 贵州卫视,http://23.237.228.134/live6/hainan.m3u8
 海南卫视,http://192.168.100.1:7088/rtp/239.69.1.151:10542
