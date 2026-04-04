@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-04 18:33:21,http://192.168.100.1:7088/rtp/239.254.96.96:8550
+2026-04-05 06:29:22,http://192.168.100.1:7088/rtp/239.254.96.96:8550
 
 📺央视频道,#genre#
 CCTV-1,http://192.168.100.1:7088/rtp/239.254.96.96:8550
@@ -11,7 +11,6 @@ CCTV-4,http://192.168.100.1:7088/rtp/239.69.1.138:10466
 CCTV-4,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
 CCTV-4,http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
 CCTV-5,http://192.168.100.1:7088/rtp/239.69.1.123:10376
-CCTV-5,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 CCTV-5+,http://192.168.100.1:7088/rtp/239.254.96.234:9484
 CCTV-5+,http://107.150.60.122/live/cctv5p.m3u8
 CCTV-5+,http://111.56.90.5/000000000000/1000000001000020505/1.m3u8
@@ -20,19 +19,16 @@ CCTV-7,http://192.168.100.1:7088/rtp/239.69.1.103:10256
 CCTV-7,http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
 CCTV-8,http://192.168.100.1:7088/rtp/239.69.1.125:10388
 CCTV-9,http://192.168.100.1:7088/rtp/239.69.1.104:10262
-CCTV-9,http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub
 CCTV-10,http://192.168.100.1:7088/rtp/239.69.1.105:10268
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CCTV-11,http://192.168.100.1:7088/rtp/239.69.1.154:10560
 CCTV-12,http://192.168.100.1:7088/rtp/239.69.1.106:10274
-CCTV-12,http://38.75.136.137:98/gslb/dsdqpub/cctv12hd.m3u8?auth=testpub
-CCTV-12,http://124.165.251.82:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-12,http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009
 CCTV-13,http://192.168.100.1:7088/rtp/239.254.96.161:9040
 CCTV-14,http://192.168.100.1:7088/rtp/239.69.1.107:10280
 CCTV-14,http://74.91.26.218:82/live/cctv14hd.m3u8
 CCTV-14,http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
 CCTV-15,http://192.168.100.1:7088/rtp/239.69.1.155:10566
-CCTV-15,http://38.75.136.137:98/gslb/dsdqpub/cctv15hd.m3u8?auth=testpub
 CCTV-16,http://192.168.100.1:7088/rtp/239.69.1.247:11124
 CCTV-16,http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
 CCTV-17,http://192.168.100.1:7088/rtp/239.69.1.152:10548
@@ -56,8 +52,8 @@ CCTV-17,http://192.168.100.1:7088/rtp/239.69.1.152:10548
 湖南卫视,http://38.75.136.137:98/gslb/dsdqbv/hnwshd.m3u8?auth=test20251009
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://192.168.100.1:7088/rtp/239.254.96.141:8920
-北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 北京卫视,http://38.75.136.137:98/gslb/dsdqbv/bjwshd.m3u8?auth=test20251009
+北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 北京卫视,http://111.56.90.5/000000000000/1000000005000265027/1.m3u8
 湖北卫视,http://192.168.100.1:7088/rtp/239.254.96.115:8664
 湖北卫视,http://38.75.136.137:98/gslb/dsdqpub/hbwshd.m3u8?auth=testpub
@@ -66,25 +62,24 @@ CCTV-17,http://192.168.100.1:7088/rtp/239.69.1.152:10548
 安徽卫视,http://192.168.100.1:7088/rtp/239.69.1.70:10060
 安徽卫视,http://38.75.136.137:98/gslb/dsdqpub/ahwshd.m3u8?auth=testpub
 重庆卫视,http://192.168.100.1:7088/rtp/239.69.1.149:10530
-重庆卫视,http://107.150.60.122/live/cqwshd.m3u8
 重庆卫视,http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub
+重庆卫视,http://107.150.60.122/live/cqwshd.m3u8
 重庆卫视,http://111.56.90.5/000000000000/1000000005000265017/1.m3u8
 东方卫视,http://192.168.100.1:7088/rtp/239.254.96.142:8926
 东方卫视,http://38.75.136.137:98/gslb/dsdqpub/dfwshd.m3u8?auth=testpub
 东南卫视,http://192.168.100.1:7088/rtp/239.69.1.108:10286
-东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 东南卫视,http://38.75.136.137:98/gslb/dsdqpub/dnwshd.m3u8?auth=testpub
+东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 甘肃卫视,http://192.168.100.1:7088/rtp/239.254.96.187:9202
 甘肃卫视,http://38.75.136.137:98/gslb/dsdqpub/gswshd.m3u8?auth=testpub
 广西卫视,http://192.168.100.1:7088/rtp/239.69.1.191:10788
-广西卫视,http://38.75.136.137:98/gslb/dsdqpub/gxwshd.m3u8?auth=testpub
 广西卫视,http://107.150.60.122/live/gxwshd.m3u8
+广西卫视,http://38.75.136.137:98/gslb/dsdqpub/gxwshd.m3u8?auth=testpub
 广西卫视,http://111.56.90.5/000000000000/1000000002000019837/1.m3u8
 贵州卫视,http://192.168.100.1:7088/rtp/239.69.1.150:10536
 贵州卫视,http://38.75.136.137:98/gslb/dsdqpub/gzwshd.m3u8?auth=testpub
 贵州卫视,http://111.56.90.5/000000000000/1000000002000003169/1.m3u8
 海南卫视,http://192.168.100.1:7088/rtp/239.69.1.151:10542
-海南卫视,http://111.221.137.234:44330/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
 河北卫视,http://192.168.100.1:7088/rtp/239.69.1.157:10578
 河南卫视,http://192.168.100.1:7088/rtp/239.69.1.168:10644
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
@@ -104,8 +99,8 @@ CCTV-17,http://192.168.100.1:7088/rtp/239.69.1.152:10548
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 山西卫视,http://192.168.100.1:7088/rtp/239.254.96.93:8532
 陕西卫视,http://192.168.100.1:7088/rtp/239.254.96.186:9196
-陕西卫视,http://38.75.136.137:98/gslb/dsdqpub/snwshd.m3u8?auth=testpub
 陕西卫视,http://107.150.60.122/live/snwshd.m3u8
+陕西卫视,http://38.75.136.137:98/gslb/dsdqpub/snwshd.m3u8?auth=testpub
 四川卫视,http://192.168.100.1:7088/rtp/239.69.1.169:10650
 四川卫视,http://38.75.136.137:98/gslb/dsdqpub/scwshd.m3u8?auth=testpub
 深圳卫视,http://192.168.100.1:7088/rtp/239.254.96.137:8896
