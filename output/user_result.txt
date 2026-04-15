@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-15 06:43:55,http://192.168.100.1:7088/rtp/239.254.96.96:8550
+2026-04-15 18:58:43,http://192.168.100.1:7088/rtp/239.254.96.96:8550
 
 📺央视频道,#genre#
 CCTV-1,http://192.168.100.1:7088/rtp/239.254.96.96:8550
@@ -46,16 +46,15 @@ CCTV-17,http://192.168.100.1:7088/rtp/239.69.1.152:10548
 广东卫视,http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub
 浙江卫视,http://192.168.100.1:7088/rtp/239.254.96.143:8932
 湖南卫视,http://192.168.100.1:7088/rtp/239.254.96.139:8908
-湖南卫视,http://38.75.136.137:98/gslb/dsdqbv/hnwshd.m3u8?auth=test20251009
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
+湖南卫视,http://38.75.136.137:98/gslb/dsdqbv/hnwshd.m3u8?auth=test20251009
 北京卫视,http://192.168.100.1:7088/rtp/239.254.96.141:8920
-北京卫视,http://38.75.136.137:98/gslb/dsdqbv/bjwshd.m3u8?auth=test20251009
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+北京卫视,http://38.75.136.137:98/gslb/dsdqbv/bjwshd.m3u8?auth=test20251009
 湖北卫视,http://192.168.100.1:7088/rtp/239.254.96.115:8664
 湖北卫视,http://38.75.136.137:98/gslb/dsdqpub/hbwshd.m3u8?auth=testpub
 黑龙江卫视,http://192.168.100.1:7088/rtp/239.254.96.138:8902
 安徽卫视,http://192.168.100.1:7088/rtp/239.69.1.70:10060
-安徽卫视,http://38.75.136.137:98/gslb/dsdqpub/ahwshd.m3u8?auth=testpub
 重庆卫视,http://192.168.100.1:7088/rtp/239.69.1.149:10530
 东方卫视,http://192.168.100.1:7088/rtp/239.254.96.142:8926
 东方卫视,http://38.75.136.137:98/gslb/dsdqpub/dfwshd.m3u8?auth=testpub
