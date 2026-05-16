@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-16 19:02:22,http://192.168.100.1:7088/rtp/239.254.96.96:8550
+2026-05-17 06:43:21,http://192.168.100.1:7088/rtp/239.254.96.96:8550
 
 📺央视频道,#genre#
 CCTV-1,http://192.168.100.1:7088/rtp/239.254.96.96:8550
@@ -24,8 +24,8 @@ CCTV-17,http://192.168.100.1:7088/rtp/239.69.1.152:10548
 CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8
 
 💰央视付费频道,#genre#
-文化精品,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
 文化精品,http://107.150.60.122/live/ysjp.m3u8
+文化精品,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
 风云音乐,http://192.168.100.1:7088/rtp/239.69.1.90:10180
 风云剧场,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
 怀旧剧场,http://192.168.100.1:7088/rtp/239.69.1.89:10174
@@ -54,10 +54,8 @@ CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8
 贵州卫视,http://192.168.100.1:7088/rtp/239.69.1.150:10536
 海南卫视,http://192.168.100.1:7088/rtp/239.69.1.151:10542
 河北卫视,http://192.168.100.1:7088/rtp/239.69.1.157:10578
-河北卫视,http://218.29.147.237:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://192.168.100.1:7088/rtp/239.69.1.168:10644
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
-河南卫视,http://125.42.150.192:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林卫视,http://192.168.100.1:7088/rtp/239.69.1.212:10914
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 江苏卫视,http://192.168.100.1:7088/rtp/239.254.96.144:8938
