@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-10 20:24:40,http://192.168.100.1:7088/rtp/239.254.96.96:8550
+2026-07-11 06:58:55,http://192.168.100.1:7088/rtp/239.254.96.96:8550
 
 📺央视频道,#genre#
 CCTV-1,http://192.168.100.1:7088/rtp/239.254.96.96:8550
@@ -28,6 +28,8 @@ CCTV-17,http://192.168.100.1:7088/rtp/239.69.1.152:10548
 风云剧场,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
 怀旧剧场,http://192.168.100.1:7088/rtp/239.69.1.89:10174
 女性时尚,http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
+女性时尚,http://dassby.qqff.top:99/live/女性时尚/index.m3u8
+女性时尚,http://120.76.248.139/live/bfgd/4200000176.m3u8
 高尔夫网球,http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
 电视指南,http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
 兵器科技,http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
@@ -55,7 +57,6 @@ CCTV-17,http://192.168.100.1:7088/rtp/239.69.1.152:10548
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 吉林卫视,http://192.168.100.1:7088/rtp/239.69.1.212:10914
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
-吉林卫视,http://223.75.149.129:9906/tsfile/live/0116_1.m3u8?key=txiptv
 江苏卫视,http://192.168.100.1:7088/rtp/239.254.96.144:8938
 江西卫视,http://192.168.100.1:7088/rtp/239.69.1.126:10394
 辽宁卫视,http://192.168.100.1:7088/rtp/239.69.1.71:10066
@@ -94,7 +95,6 @@ CCTV-17,http://192.168.100.1:7088/rtp/239.69.1.152:10548
 武汉生活,http://192.168.100.1:7088/rtp/239.69.1.251:11148
 
 🈳无结果频道,#genre#
-世界地理,url
 湖北公共新闻,url
 湖北经济,url
 武汉三台科技生活,url
