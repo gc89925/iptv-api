@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-04 07:47:40,http://192.168.100.1:7088/rtp/239.254.96.96:8550
+2026-09-04 22:01:22,http://192.168.100.1:7088/rtp/239.254.96.96:8550
 
 📺央视频道,#genre#
 CCTV-1,http://192.168.100.1:7088/rtp/239.254.96.96:8550
@@ -56,7 +56,6 @@ CCTV-17,https://live.264788.xyz/channel/cctv17?streamid=348c8c0c04a6d2b900e5a3bc
 东南卫视,http://192.168.100.1:7088/rtp/239.69.1.108:10286
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
-东南卫视,http://124.228.160.210:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
 甘肃卫视,http://192.168.100.1:7088/rtp/239.254.96.187:9202
 广西卫视,http://192.168.100.1:7088/rtp/239.69.1.191:10788
 贵州卫视,http://192.168.100.1:7088/rtp/239.69.1.150:10536
@@ -68,7 +67,6 @@ CCTV-17,https://live.264788.xyz/channel/cctv17?streamid=348c8c0c04a6d2b900e5a3bc
 吉林卫视,http://192.168.100.1:7088/rtp/239.69.1.212:10914
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 江苏卫视,http://192.168.100.1:7088/rtp/239.254.96.144:8938
-江苏卫视,http://124.228.160.210:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 江西卫视,http://192.168.100.1:7088/rtp/239.69.1.126:10394
 江西卫视,https://live.264788.xyz/channel/jiangxiweishi?streamid=555198f31caa33506ac6abb70d788959&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 辽宁卫视,http://192.168.100.1:7088/rtp/239.69.1.71:10066
@@ -86,8 +84,8 @@ CCTV-17,https://live.264788.xyz/channel/cctv17?streamid=348c8c0c04a6d2b900e5a3bc
 陕西卫视,http://192.168.100.1:7088/rtp/239.254.96.186:9196
 陕西卫视,https://live.264788.xyz/channel/shaanxiweishi?streamid=9dc887dba8ecb4e4143baf4f2373800c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 四川卫视,http://192.168.100.1:7088/rtp/239.69.1.169:10650
-四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=21be5901ee81559c827dc84e46f26452&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=401bf692a1a8b91298f26077d53316d6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=21be5901ee81559c827dc84e46f26452&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 深圳卫视,http://192.168.100.1:7088/rtp/239.254.96.137:8896
 三沙卫视,http://192.168.100.1:7088/rtp/239.69.1.171:10662
 天津卫视,http://192.168.100.1:7088/rtp/239.69.1.68:10048
@@ -96,6 +94,7 @@ CCTV-17,https://live.264788.xyz/channel/cctv17?streamid=348c8c0c04a6d2b900e5a3bc
 新疆卫视,http://192.168.100.1:7088/rtp/239.254.96.47:8256
 新疆卫视,https://live.264788.xyz/channel/xinjiangweishi?streamid=4f481f56ae39ce5d24203471de9df635&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 云南卫视,http://192.168.100.1:7088/rtp/239.254.96.30:8154
+云南卫视,http://101.66.195.43:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0
 
 ☘️湖北频道,#genre#
 湖北综合,http://192.168.100.1:7088/rtp/239.69.1.42:9892
