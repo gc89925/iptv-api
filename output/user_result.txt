@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-09 07:50:47,http://192.168.100.1:7088/rtp/239.254.96.96:8550
+2026-09-09 22:10:06,http://192.168.100.1:7088/rtp/239.254.96.96:8550
 
 📺央视频道,#genre#
 CCTV-1,http://192.168.100.1:7088/rtp/239.254.96.96:8550
@@ -84,8 +84,8 @@ CCTV-17,https://live.264788.xyz/channel/cctv17?streamid=348c8c0c04a6d2b900e5a3bc
 陕西卫视,http://192.168.100.1:7088/rtp/239.254.96.186:9196
 陕西卫视,https://live.264788.xyz/channel/shaanxiweishi?streamid=9dc887dba8ecb4e4143baf4f2373800c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 四川卫视,http://192.168.100.1:7088/rtp/239.69.1.169:10650
-四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=401bf692a1a8b91298f26077d53316d6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=21be5901ee81559c827dc84e46f26452&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=401bf692a1a8b91298f26077d53316d6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 深圳卫视,http://192.168.100.1:7088/rtp/239.254.96.137:8896
 三沙卫视,http://192.168.100.1:7088/rtp/239.69.1.171:10662
 天津卫视,http://192.168.100.1:7088/rtp/239.69.1.68:10048
